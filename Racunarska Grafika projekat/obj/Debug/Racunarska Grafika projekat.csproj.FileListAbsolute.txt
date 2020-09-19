@@ -1,0 +1,18 @@
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\bin\Debug\Racunarska Grafika projekat.exe.config
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\bin\Debug\Racunarska Grafika projekat.exe
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\bin\Debug\Racunarska Grafika projekat.pdb
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska Grafika projekat.csprojAssemblyReference.cache
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska_Grafika_projekat.Form1.resources
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska_Grafika_projekat.Properties.Resources.resources
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska Grafika projekat.csproj.GenerateResource.cache
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska Grafika projekat.csproj.CoreCompileInputs.cache
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska Grafika projekat.exe
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska Grafika projekat.pdb
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska_Grafika_projekat.Form2.resources
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska_Grafika_projekat.Form3.resources
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\bin\Debug\Castle.Core.dll
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\bin\Debug\TestStack.White.dll
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\bin\Debug\Castle.Core.xml
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\bin\Debug\TestStack.White.pdb
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\bin\Debug\TestStack.White.xml
+C:\Users\Petar\source\repos\Racunarska Grafika projekat\Racunarska Grafika projekat\obj\Debug\Racunarska Grafika projekat.csproj.CopyComplete
